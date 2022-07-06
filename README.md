@@ -2,5 +2,5 @@
 one ones are one.
 one twos are two.
 ... 😊
-Step towards DataScience!
+Steps towards DataScience!
 -------------------------
